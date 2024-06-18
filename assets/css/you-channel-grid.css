@@ -1,0 +1,30 @@
+.you-feed{
+	height: inherit;
+    width: inherit;
+}
+.you-feed-img {
+	height: inherit;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.you-feed-img i {
+    font-size: var(--e-global-typography-secondary-font-size);
+    background: var(--e-global-color-7abe7aa);
+    padding: 10px 10px 10px 14px;
+    border-radius: 150px;
+}
+.you-feed-img i {
+    font-size: var(--e-global-typography-secondary-font-size);
+    background: var(--e-global-color-7abe7aa);
+    padding: 10px 10px 10px 14px;
+    border-radius: 150px;
+}
+
+.you-feed-content h3.title{
+    font-size: var(--e-global-typography-secondary-font-size);
+    color: var(--e-global-color-primary);
+}
